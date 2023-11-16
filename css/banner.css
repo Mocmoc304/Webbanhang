@@ -1,0 +1,9 @@
+.banner>img{
+   height: 220px;
+   width: 100%;
+  
+}
+.banner{
+   padding: 0;
+   margin: 0;
+}
